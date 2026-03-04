@@ -263,7 +263,7 @@ To purchase more credits, you can top up directly within the product. If you enc
 
 ## 📞 Support & Contact
 
-- **ADP Product Manual:** [Public Cloud Operation Manual](https://laiye-tech.feishu.cn/wiki/UDYIwG42pisBbFkJI39ctpeKnWh)
+- **ADP Product Manual:** [ADP Product Manual (SaaS)](https://laiye-tech.feishu.cn/wiki/OfexwgVUQiOpEek4kO7c7NEJnAe)
 - **ADP API Documentation:** [Open API User Guide](https://laiye-tech.feishu.cn/wiki/S1t2wYR04ivndKkMDxxcp2SFnKd)
 - **Issue Tracker:** [GitHub Issues](https://github.com/laiye-ai-repos/adp-skill/issues)
 - **Email:** global_product@laiye.com
