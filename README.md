@@ -4,9 +4,6 @@
 
 **ADP (Agentic Document Processing)** is a next-generation platform based on Large Language Models and Vision Language Models, combined with agentic technology, to achieve end-to-end automated document processing.
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/laiye-ai-repos/adp-skill)
-[![License](https://img.shields.io/badge/license-commercial-important.svg)](LICENSE)
-[![Document AI](https://img.shields.io/badge/Document_AI-VLM%20%2B%20LLM-green.svg)](https://adp-global.laiye.com/)
 
 [English](README.md) | [简体中文](README-CN.md)
 
@@ -248,9 +245,8 @@ echo "openclaw.json" >> .gitignore
 
 ## 📚 Related Documentation
 
-- **API Reference:** [Complete API Documentation](https://adp-global.laiye.com/docs)
-- **Flow Index:** [ADP Flow Documentation](https://github.com/your-repo/docs)
-- **Sample Code:** [Sample Code & Integrations](https://github.com/your-repo/examples)
+- **API Reference:** [Complete API Documentation](https://laiye-tech.feishu.cn/wiki/S1t2wYR04ivndKkMDxxcp2SFnKd)
+
 
 ---
 
@@ -268,8 +264,7 @@ To purchase more credits, you can top up directly within the product. If you enc
 ## 📞 Support & Contact
 
 - **ADP Product Manual:** [Public Cloud Operation Manual](https://laiye-tech.feishu.cn/wiki/UDYIwG42pisBbFkJI39ctpeKnWh)
-- **ADP API Documentation:** [Open API User Guide](https://laiye-tech.feishu.cn/wiki/PO9Jw4cH3iV2ThkMPW2c539pnkc)
-
+- **ADP API Documentation:** [Open API User Guide](https://laiye-tech.feishu.cn/wiki/S1t2wYR04ivndKkMDxxcp2SFnKd)
 - **Issue Tracker:** [GitHub Issues](https://github.com/laiye-ai-repos/adp-skill/issues)
 - **Email:** global_product@laiye.com
 - **Website:** [Laiye Technology](https://laiye.com)
